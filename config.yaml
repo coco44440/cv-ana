@@ -1,0 +1,5 @@
+usernames:
+  user1:
+    password: "$2b$12$4wJvF3BCuJ6v8WhxgfphPe7ur5OiL.JM5B5Of2oZgE1E5dFIMgxaC"  # hashed password for 'password1'
+  user2:
+    password: "$2b$12$8IJ8wWUm/yhV3jepBPVop.2AFsnGfAYlzJlW.ezTt35TWxN61.ZGe"  # hashed password for 'password2'
