@@ -1,8 +1,9 @@
+# requirements.txt
 streamlit
-bcrypt
 PyPDF2
 python-docx
-pandas
-PyYAML
 openai
 python-dotenv
+pandas
+bcrypt
+PyJWT
